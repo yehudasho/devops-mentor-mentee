@@ -1,7 +1,9 @@
 # Project Roadmap DevOps AI
 
 Welcome to the **DevOps Mentor–Mentee Project**  
-This repository is designed to guide you step by step through building a **complete DevOps pipeline** — from coding an application, to deploying it with modern DevOps & DevOps AI practices.  
+This repository is designed to guide you step by step through building a **complete DevOps pipeline** — from coding an application, to deploying it with modern DevOps & DevOps AI practices.
+
+![DevOps Lifecycle](.devops-ai-arch.jpg)  
 
 ---
 
@@ -63,9 +65,9 @@ Click the **logos/emojis** below to jump directly to that step’s guide:
 
 ## 🖼️ Visuals  
 
-### 🧭 DevOps Life Cycle  
+### 🧭 TBD
 
-![DevOps Lifecycle](./Assets/Devops-LC.jpg)  
+
 
 ---
 
