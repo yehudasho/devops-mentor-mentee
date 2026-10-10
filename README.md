@@ -1,7 +1,7 @@
-# 🚀 DevOps Final Project – *Strive for Progress, Not Perfection*  
+# Project Roadmap DevOps AI
 
-Welcome to the **DevOps Mentor–Mentee Project** 🤝.  
-This repository is designed to guide you step by step through building a **complete DevOps pipeline** — from coding an application, to deploying it with modern DevOps practices.  
+Welcome to the **DevOps Mentor–Mentee Project**  
+This repository is designed to guide you step by step through building a **complete DevOps pipeline** — from coding an application, to deploying it with modern DevOps & DevOps AI practices.  
 
 ---
 
@@ -10,15 +10,17 @@ This repository is designed to guide you step by step through building a **compl
 Before starting, please install the following tools (latest versions recommended):  
 
 - [🐍 Python](https://www.python.org/downloads/) (or another language of your choice)  
-- [🍃 MongoDB](https://www.mongodb.com/try/download/community)  
 - [🐳 Docker](https://www.docker.com/get-started/)  
-- [☸️ Kubernetes](https://kubernetes.io/docs/tasks/tools/)  
-- [⚡ Git](https://git-scm.com/downloads)  
-- [🔄 GitHub Actions](https://docs.github.com/en/actions)  
+ - [⚡ Git](https://git-scm.com/downloads)  
+- [🔄 GitHub Actions](https://docs.github.com/en/actions)
+
+## 📌 Project Prerequisites - Not now, Install it on Advance steps   
 - [🚀 ArgoCD](https://argo-cd.readthedocs.io/en/stable/getting_started/)  
 - [📦 Terraform](https://developer.hashicorp.com/terraform/downloads)  
 - [📊 Grafana](https://grafana.com/get)  
-- [📈 Prometheus](https://prometheus.io/download/)  
+- [📈 Prometheus](https://prometheus.io/download/)
+- [🍃 MongoDB](https://www.mongodb.com/try/download/community)
+- [☸️ Kubernetes](https://kubernetes.io/docs/tasks/tools/) 
 
 ---
 
