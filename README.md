@@ -4,7 +4,7 @@ Welcome to the **DevOps Mentor–Mentee Project**
 This repository is designed to guide you step by step through building a **complete DevOps pipeline** — from coding an application, to deploying it with modern DevOps & DevOps AI practices.
 
 
-![Alt text](Dedevops-ai-arch.png)
+![Alt text](devops-ai-arch.png)
 
 ---
 
